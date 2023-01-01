@@ -18,5 +18,7 @@ Link to the dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xra
 
 # References:
 https://ceur-ws.org/Vol-3038/paper17.pdf
+
 https://towardsdatascience.com/diagnosing-pneumonia-from-x-ray-images-using-convolutional-neural-network-fe9975cab808
+
 https://www.youtube.com/watch?v=5IBnuauBvkQ
