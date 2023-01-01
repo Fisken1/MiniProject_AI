@@ -1,8 +1,19 @@
-# MiniProject for D7041E, Group 6
+# D7041E MiniProject, Group 6 (X-ray image classification with CNN) 
 
-Contact information:
+# Welcome to our project! 
+
+For this project, we decided to make use of a CNN to identify pneumonia based on X-ray images. We choose pneumonia specifically because the dataset was for some reason much more easily obtainable compared to datasets for other diseases and medical conditions. 
+
+To run our project please clone this repo and open the code in an IDE like PyCharm. Then download the required python packages. The required packages can be found at the top of the project by our imports. If you have any trouble running our project please don't hesitate to contact us for assistance. 
+
+# Contact information:
 - Dino Lolic, dinlol-9@student.ltu.se
 - Oliver Johdet Piwek, olijoh-9@student.ltu.se
 
+# Important links:
 
-Link to data: https://data.mendeley.com/datasets/rscbjbr9sj/2 
+Link to our youtube video: DINO PLEASE ADD THE LINK HERE AFTER UPLOAD
+
+Link to the dataset: https://data.mendeley.com/datasets/rscbjbr9sj/2 
+
+
