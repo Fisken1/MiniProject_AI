@@ -14,6 +14,6 @@ To run our project please clone this repo and open the code in an IDE like PyCha
 
 Link to our youtube video: DINO PLEASE ADD THE LINK HERE AFTER UPLOAD
 
-Link to the dataset: https://data.mendeley.com/datasets/rscbjbr9sj/2 
+Link to the dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
 
