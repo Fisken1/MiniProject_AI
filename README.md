@@ -12,7 +12,7 @@ To run our project please clone this repo and open the code in an IDE like PyCha
 
 # Important links:
 
-Link to our youtube video: DINO PLEASE ADD THE LINK HERE AFTER UPLOAD
+Link to our video: https://clipchamp.com/watch/lKX4R0TpQZ6
 
 Link to the dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
